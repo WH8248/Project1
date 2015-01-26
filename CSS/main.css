@@ -1,0 +1,36 @@
+body {
+    font-family: 'Lucida Grande', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: lighter;
+    text-transform: none;
+    letter-spacing: normal;
+    line-height: 2.0em;
+    color: #666666;
+}
+
+.text-subtitle{
+    color: #f07c17;
+    line-height: 1.5em;
+    font-size: 24px;
+    font-weight: bold;
+    padding-bottom: 12px;
+}
+
+.mugpix{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.boxed {
+  border: 1px solid #cccccc ;
+  padding-left: 35px;
+  padding-right: 15px;
+  padding-top: 0px;
+  padding-bottom: 20px;
+}
+
+.title-super{
+    font-size: 48px;
+    padding-top: 22px;
+}
